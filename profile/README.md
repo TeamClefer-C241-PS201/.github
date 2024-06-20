@@ -18,16 +18,8 @@ Here is our repository for Bangkit 2024 Capstone project. Our team consist of 3 
 |    Muhammad Nizam Setiawan     | A284D4KY4089 | Mobile Development |        [LinkedIn](https://www.linkedin.com/in/nizamstwn/) or [GitHub](https://github.com/nizamsetiawan)        |
 
 ## About this project
-
+![CleferApp](https://github.com/TeamClefer-C241-PS201/.github/blob/main/profile/CLEFER.png)
 CLEFER is an application that can be accessed at any time to find pests or diseases infected by corn plants.
-
-## Documentation
-
-![CleferApp]( )
-
-## System Architecture
-
-![SystemArchitecture]( )
 
 ## Repositories
 
