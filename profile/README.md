@@ -18,8 +18,8 @@ Here is our repository for Bangkit 2024 Capstone project. Our team consist of 3 
 |    Muhammad Nizam Setiawan     | A284D4KY4089 | Mobile Development |        [LinkedIn](https://www.linkedin.com/in/nizamstwn/) or [GitHub](https://github.com/nizamsetiawan)        |
 
 ## About this project
-![CleferApp](https://github.com/TeamClefer-C241-PS201/.github/blob/main/profile/CLEFER.png)
 CLEFER is an application that can be accessed at any time to find pests or diseases infected by corn plants.
+![CleferApp](https://github.com/TeamClefer-C241-PS201/.github/blob/main/profile/CLEFER.png)
 
 ## Repositories
 
@@ -29,9 +29,9 @@ CLEFER is an application that can be accessed at any time to find pests or disea
 |  Cloud Computing   | [CC Branch](https://github.com/TeamClefer-C241-PS201/CloudComputeApi)      |
 |  Machine Learning  | [ML Branch](https://github.com/TeamClefer-C241-PS201/Machine-Learning-CLEFER)       |
 
-## API Documentations
+## Deployed API 
 
-API Documentation Endpoint : [Endpoint]( )
+API Endpoint : [Endpoint](https://clefer-api-hka5wueg4q-et.a.run.app/)
 
 ## Datasets
 
@@ -40,13 +40,7 @@ Dataset Links of This Project :
 - [Dataset](https://drive.google.com/drive/folders/1N4NuZKvE_tciD98Z4bt0ePWXhTrrVDg-?usp=sharing)
 
 
-## UI/UX Design
-
-- Link Lo-Fi Design : [Lo-Fi]( )
-- Link Hi-Fi Design : [Hi-Fi]( )
-- Link Prototype Design : [Prototype]( )
-
 ## Deployment Link APK CLEFER
 
 Download Link APK CLEFER:<br>
-[CleferAPK (Google Drive)]( )
+[CleferAPK (Google Drive)](https://intip.in/APKClefer)
